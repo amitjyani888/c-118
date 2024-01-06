@@ -1,0 +1,18 @@
+body {
+    background-color: #e6e6e6; /* Set your desired background color */
+}
+
+#score {
+    font-size: 18px; /* Set your desired font size */
+    margin-left: 20px; /* Set your desired left margin in pixels */
+}
+
+#timer {
+    font-size: 18px; /* Set your desired font size */
+    float: right; /* Align to the right */
+    margin-right: 20px; /* Set your desired right margin in pixels */
+}
+
+#sketchToDraw {
+    color: blue; /* Set your desired text color for the sketch to be drawn */
+}
